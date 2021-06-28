@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macknilan)](https://github.com/macknilan/github-readme-stats&show_icons=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macknilan&show_icons=true&count_private=true)](https://github.com/macknilan/github-readme-stats)
 
 
 <!--
