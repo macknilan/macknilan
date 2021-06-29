@@ -3,7 +3,7 @@
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macknilan&show_icons=true&count_private=true)](https://github.com/macknilan/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macknilan)](https://github.com/macknilan/github-readme-stats)
 
-<p style="text-align: center"> Copyright &copy; 2014-<script>document.write(new Date().getFullYear())</script> Your Name All Rights Reserved</p>
+
 
 <!--
 **macknilan/macknilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
