@@ -1,6 +1,10 @@
 ### 01001000 01101001 00100000 01110100 01101000 01100101 01110010 01100101  👋
-Tech enthusiast Gen X programmer, I like back-end and front-end, self-taught and I like learning about technology.
-## GitHub Stats
+Generation X programmer enthusiastic about technology, I like the back-end and the front-end, self-taught and I like to learn about technology and I make my notes in my notebook :point_down:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macknilan&repo=Cuaderno&show_owner=true)](https://github.com/macknilan/Cuaderno)
+
+
+### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macknilan&show_icons=true&count_private=true)](https://github.com/macknilan/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macknilan)](https://github.com/macknilan/github-readme-stats)
 
 
