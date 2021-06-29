@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Tech enthusiast Gen X programmer, I like back-end and front-end, self-taught and I like learning about technology.
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macknilan&show_icons=true&count_private=true)](https://github.com/macknilan/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macknilan)](https://github.com/macknilan/github-readme-stats)
 
